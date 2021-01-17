@@ -1,0 +1,4 @@
+Sat Jul 11 23:42:06 CST 2020-[com.gottaboy.iching.mybatis.test.JulLoggerTest.test3]INFO:info
+Sat Jul 11 23:43:16 CST 2020-[com.gottaboy.iching.mybatis.test.JulLoggerTest.test3]WARNING:warning
+Sat Jul 11 23:43:27 CST 2020-[com.gottaboy.iching.mybatis.test.JulLoggerTest.test3]SEVERE:server
+Sat Jul 11 23:43:29 CST 2020-[com.gottaboy.iching.mybatis.test.JulLoggerTest.test3]FINE:fine

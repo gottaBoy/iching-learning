@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-07-11T21:03:00</date>
+  <millis>1594472580444</millis>
+  <sequence>0</sequence>
+  <logger>TestLog</logger>
+  <level>INFO</level>
+  <class>com.gottaboy.iching.mybatis.test.JulLoggerTest</class>
+  <method>test2</method>
+  <thread>1</thread>
+  <message>INFO</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-07-11T21:07:54</date>
+  <millis>1594472874067</millis>
+  <sequence>0</sequence>
+  <logger>TestLog</logger>
+  <level>INFO</level>
+  <class>com.gottaboy.iching.mybatis.test.JulLoggerTest</class>
+  <method>test2</method>
+  <thread>1</thread>
+  <message>INFO</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-07-11T23:48:03</date>
+  <millis>1594482483308</millis>
+  <sequence>0</sequence>
+  <logger>TestLog</logger>
+  <level>INFO</level>
+  <class>com.gottaboy.iching.mybatis.test.JulLoggerTest</class>
+  <method>test2</method>
+  <thread>1</thread>
+  <message>INFO</message>
+</record>
+</log>
